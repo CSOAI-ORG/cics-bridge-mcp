@@ -1,0 +1,7 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.CSOAI-ORG/cics-bridge-mcp",
+  "description": "Bridge IBM CICS mainframe transactions to ONE OS — parse, map, govern (SOX / PCI-DSS / DORA).",
+  "version": "0.1.0",
+  "packages": [{"registry_type": "pypi", "identifier": "cics-bridge-mcp", "version": "0.1.0", "transport": {"type": "stdio"}}]
+}
